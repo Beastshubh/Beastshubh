@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Beastshubh
-- 👀 I’m interested in Minecraft and coding...
-- 🌱 I’m currently learning Node.js...
-- 💞️ I’m Minecraft server devloper 
-- 📫 How to reach me Discord ...
+Certainly! Here's the updated bio with the addition:
 
-<!---
-Beastshubh/Beastshubh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+👋 **Introduction:** Hey there, I'm @Beastshubh, CEO of Ateexcloud!
+
+👀 **Interests:** My passions lie in the realms of Minecraft and coding.
+
+🌱 **Current Focus:** Currently delving into the depths of Node.js, expanding my coding repertoire.
+
+💞️ **Specialization:** Proudly serving as a Minecraft server developer, crafting digital worlds for enthusiasts to explore and enjoy.
+
+📫 **Contact:** Reach out to me on Discord @Beastshubh to discuss collaborations or simply geek out about Minecraft!
+
+---
+
+Feel free to let me know if you need any further adjustments!
