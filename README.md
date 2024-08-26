@@ -13,5 +13,3 @@ Certainly! Here's the updated bio with the addition:
 📫 **Contact:** Reach out to me on Discord @Beastshubh to discuss collaborations or simply geek out about Minecraft!
 
 ---
-
-Feel free to let me know if you need any further adjustments!
