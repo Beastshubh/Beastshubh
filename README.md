@@ -2,7 +2,7 @@ Certainly! Here's the updated bio with the addition:
 
 ---
 
-👋 **Introduction:** Hey there, I'm @Beastshubh, CEO of Ateexcloud!
+👋 **Introduction:** Hey there, I'm @Beastshubh
 
 👀 **Interests:** My passions lie in the realms of Minecraft and coding.
 
